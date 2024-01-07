@@ -1,2 +1,2 @@
 # productive-bees
-This is a python script to create productive bees. This is work in progress.
+A python script to create productive bees. This is work in progress bugs could happen. Have fun!
