@@ -1,7 +1,7 @@
 # productive-bees
 A python script to create productive bees. This is work in progress bugs could happen. Have fun!
 
-How to use:
+##How to use:
 
 This script generates three files:
 
