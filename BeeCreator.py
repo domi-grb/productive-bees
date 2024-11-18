@@ -20,7 +20,7 @@ def generate_json():
     # Get user input for mod ID or use default value "gtceu" if nothing is provided
     mod_id = input("Enter mod ID (or press Enter to use default 'gtceu'): ") or "gtceu"
 
-    # Create JSON structure for the first file (bee)
+    # Create JSON structure for the first file 
     data = {
         "primaryColor": primary_color,
         "secondaryColor": secondary_color,
@@ -40,7 +40,7 @@ def generate_json():
     if not secondary_color:
         del data["secondaryColor"]
 
-    # Get user input for file name
+    # Get user input for file name 
     bee_name = input("Enter the name of the file (without extension): ").lower()
 
     # Check if the input is empty
